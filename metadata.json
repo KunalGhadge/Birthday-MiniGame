@@ -1,0 +1,7 @@
+{
+  "name": "Mom's Birthday Celebration",
+  "description": "A heartwarming mini-game and interactive cake cutting ceremony for Mom's birthday, featuring balloon popping, candle blowing, and AI-generated wishes in English and Marathi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
